@@ -20,5 +20,5 @@ Valuable life-changing experience are rare in our life. Most people may only enc
 
 
 
-<p style = "font-size:50%> P.S. For those that are wondering,
-Yes, this blog post is here because I had to finish an assignment for the program. No one said that I couldn't use this chance to actually start my own personal blog right? </p> :grin:
+*P.S. For those that are wondering,
+Yes, this blog post is here because I had to finish an assignment for the program. No one said that I couldn't use this chance to actually start my own personal blog right? :)*
